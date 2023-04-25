@@ -1,8 +1,7 @@
    .cabeçalho{
     background-color: magenta;
    color: blue;
-   display:flex
-   justify-content : space-around;
+   
 }
 
 
@@ -12,4 +11,4 @@
    
     }
     .cabeçalho-lista-item
-
+     
