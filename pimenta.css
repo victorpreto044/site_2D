@@ -4,7 +4,7 @@ body {
     box-sizing: border-box;
     height: 100vh;
     width: 100vw;
-    background: linear-gradient(72deg, #f22703 25%, #fffacd, #f72702 99%); ;
+    background: linear-gradient(72deg, #034bf2 25%, #fffacd, #3ff702 99%); ;
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -17,7 +17,7 @@ body {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    box-shadow: 9px 6px 3px 0px rgba(195, 19, 19, 0.747);
+    box-shadow: 9px 6px 3px 0px rgba(1, 245, 237, 0.747);
 }
 
 .content .slide img {
