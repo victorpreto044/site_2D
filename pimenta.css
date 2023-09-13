@@ -10,14 +10,14 @@ body {
 
 .content {
     height: 260px;
-    width: 462px;
+    width: 460px;
     border-radius: 20px;
     overflow: hidden;
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    box-shadow: 9px 9px 3px 0px rgba(0, 0, 0, 0.747);
+    box-shadow: 9px 6px 3px 0px rgba(0, 0, 0, 0.747);
 }
 
 .content .slide img {
@@ -27,7 +27,7 @@ body {
 
 .navigation {
     position: absolute;
-    bottom: 160px;
+    bottom: 163px;
     left: 62%;
     display: flex;
 }
