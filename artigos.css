@@ -9,7 +9,7 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding: 24px 0;
+    padding: 26px 0;
     }
     
     .cabeçalho_imagem{
@@ -17,7 +17,7 @@
     }
     
     .cabeçalho_titulo{
-    font-size: 50px;
+    font-size: 53px;
     }
     
     
